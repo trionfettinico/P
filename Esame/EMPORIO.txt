@@ -1,0 +1,5 @@
+AL;K;46.9;4.23;23456789;pane;integrale;17/04/2019
+B;U;10.0;23.98;34567890;vino;rosso piceno;13/12/2036
+LE;U;12.0;32.98;45678901;tavolo;abete;da esterno;2m x 1m
+LI;U;4.0;18.99;56789012;la divina commedia;uno dei libri piu famosi di sempre;dante alighieri;libreria zanetti;12/10/1989
+AB;U;12.0;29.99;12345678;felpa ;puma;cotone;L;blue
